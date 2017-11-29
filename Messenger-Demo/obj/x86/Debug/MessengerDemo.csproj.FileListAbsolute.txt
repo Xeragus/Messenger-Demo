@@ -1,0 +1,12 @@
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\bin\Debug\WhatsAppApi.dll
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.csproj.GenerateResource.Cache
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.formWhatsApp.resources
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.Properties.Resources.resources
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.formRegister.resources
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\bin\Debug\MessengerDemo.exe.config
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\bin\Debug\MessengerDemo.exe
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\bin\Debug\MessengerDemo.pdb
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.frmAbout.resources
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.exe
+C:\Users\Boban\Documents\Projects\WhatsApp\WhatsApp\obj\x86\Debug\MessengerDemo.pdb
